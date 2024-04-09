@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Damithedev
-- 👀 I’m interested in Mobile App Development,Machine learning,Data analysis
+- 👀 I’m interested in Mobile App Development,Machine learning,Data analysis, Backend web development, Api development
 - 🌱 I’m currently learning Flutter, Dart,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me via Email(adamidogo@gmail.com)
