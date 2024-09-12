@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter, Dart,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me via Email(adamidogo@gmail.com)
+- FREE YOUNG THUG
 
 <!---
 Damithedev/Damithedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
