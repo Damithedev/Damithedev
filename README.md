@@ -1,5 +1,5 @@
 
-- FREE YOUNG THUG
+- Life is Short, Race a Cat
 
 <!---
 Damithedev/Damithedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
