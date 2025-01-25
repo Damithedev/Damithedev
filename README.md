@@ -1,5 +1,5 @@
 
-- Life is Short, Race a Cat
+- If i can't build it, then i don't understand it
 
 <!---
 Damithedev/Damithedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
